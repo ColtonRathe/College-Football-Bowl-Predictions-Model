@@ -3,13 +3,13 @@
 This project scraps 2007-2020 college football data from sports-reference.com and creates a logistic regression and random forest model to predict bowl game outcomes. 
 
 The data sources used (2020 link provided) : 
-Offense (https://www.sports-reference.com/cfb/years/2020-team-offense.html)
-Defense (https://www.sports-reference.com/cfb/years/2020-team-defense.html)
-Special Team (https://www.sports-reference.com/cfb/years/2020-special-teams.html)
-Conference Summary (https://www.sports-reference.com/cfb/years/2020.html) 
-Ratings (https://www.sports-reference.com/cfb/years/2020-ratings.html)
-Standings (https://www.sports-reference.com/cfb/years/2020-standings.html)
-Scores (https://www.sports-reference.com/cfb/years/2020-schedule.html)
+-Offense (https://www.sports-reference.com/cfb/years/2020-team-offense.html)
+-Defense (https://www.sports-reference.com/cfb/years/2020-team-defense.html)
+-Special Team (https://www.sports-reference.com/cfb/years/2020-special-teams.html)
+-Conference Summary (https://www.sports-reference.com/cfb/years/2020.html) 
+-Ratings (https://www.sports-reference.com/cfb/years/2020-ratings.html)
+-Standings (https://www.sports-reference.com/cfb/years/2020-standings.html)
+-Scores (https://www.sports-reference.com/cfb/years/2020-schedule.html)
 
 Steps for the project: 
 1. Scrap the data using a years for loop (the year is only thing that changes in the url).
